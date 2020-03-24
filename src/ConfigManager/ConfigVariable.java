@@ -1,4 +1,4 @@
-package noter.config;
+package ConfigManager;
 
 public class ConfigVariable<T> {
 	private T value;

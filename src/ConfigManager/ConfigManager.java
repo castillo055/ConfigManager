@@ -1,4 +1,4 @@
-package noter.config;
+package ConfigManager;
 
 import java.io.File;
 import java.io.FileNotFoundException;
